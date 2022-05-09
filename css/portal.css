@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
 
 html {
-    background-color: #c54f4f;
+    background-color: #3379ae;
     font-family: 'Oswald', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
@@ -28,7 +28,6 @@ header h1 {
 h1.logo {
     font-family: 'Lora', serif;
     font-size: 48px;
-
 }
 
 main.wrapper {
