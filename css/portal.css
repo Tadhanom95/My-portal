@@ -40,14 +40,19 @@ p {
     margin: 1em; /* Top Right Bottom Left (TRBL) */
 }
 
-h2,h3 {
+h2 {
     font-weight:normal;
     margin-left: 1em;
     line-height: 1em;
 }
+h3 {
+      color: rgb(18, 173, 126);
+      font-weight: bold;
+
+}
 
 a {
-    color:darkcyan;
+    color:rgb(23, 11, 244);
     text-decoration: none;
 }
 
